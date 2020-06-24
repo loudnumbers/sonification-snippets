@@ -1,2 +1,6 @@
-# sonification-snippets
-A few snippets of useful code for data sonification in Sonic Pi
+# Sonification Snippets
+This repository contains snippets of Ruby code that may prove useful when doing sonification work in Sonic Pi. 
+
+It's intended as a resource to help people start sonifying data. As such, the code is written for readability and understanding, not efficiency.
+
+Feel free to leave us an issue or pull request if you have any comments, questions, or suggestions.
